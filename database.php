@@ -12,4 +12,4 @@ function conectarDB() : mysqli {
 
 }
 
-//http://localhost/proyecto-DAW-ORG-JOR/proyecto-daw-org/proyecto-DAW-ORG-AFH/
+//http://localhost/proyecto-DAW-ORG-JOR/proyecto-daw-org/proyecto-DAW-ORG-AF/
